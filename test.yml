@@ -4,4 +4,4 @@
     hosts: all
 
     roles:
-      - RocketChat.Server
+      - Rocket.Chat.Ansible
